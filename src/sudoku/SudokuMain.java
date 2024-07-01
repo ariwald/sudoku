@@ -32,7 +32,7 @@ public class SudokuMain extends JFrame {
 
     /** The entry main() entry method */
     public static void main(String[] args) {
-        // [TODO 1] "Swing program template" on how to run
+        // [TODO 1] "Swing program template"
         //  the constructor of "SudokuMain"
     }
 }
